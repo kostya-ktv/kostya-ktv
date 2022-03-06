@@ -2,7 +2,7 @@
 
 #### I'm a Fullstack Developer
 
-- 🌱 I like to code and breathe fresh air
+- 🌱 I like to code
 - 💬 Ask me about <b>Something</b>
 - 📦 Working on projects at the moment
 - 🧠 CodeWars
