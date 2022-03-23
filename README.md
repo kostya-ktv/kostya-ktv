@@ -1,7 +1,7 @@
 ## Hello 👋 my name is Kostya
 
 #### I'm a Fullstack Developer
-
+[![Codewars](https://www.codewars.com/users/kostya-ktv/badges/micro)](https://www.codewars.com/users/kostya-ktv)
 - 🌱 I like to code
 - 💬 Ask me about <b>Something</b>
 - 📦 Working on projects at the moment
